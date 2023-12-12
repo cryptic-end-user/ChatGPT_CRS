@@ -1,6 +1,6 @@
 # "_ChatGPT as a Conversational Recommender System: A User-Centric Analysis_"
 
-We report the data and compile results for the under-reviewed research work. 
+We report the data and compiled results for the under-reviewed research work. 
 
 1. The file named '_ChatGPT API parameters selection_' includes details on adjusting the ChatGPT API parameters for generating responses. 
 
