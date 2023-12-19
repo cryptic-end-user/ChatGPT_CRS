@@ -1,6 +1,6 @@
 # "_ChatGPT as a Conversational Recommender System: A User-Centric Analysis_"
 
-We report the data and compiled results for the under-reviewed research work. 
+This repository contains the collected data and compiled results for the paper ChatGPT as a Conversational Recommender System: A User-Centric Analysis. 
 
 1. The file named '_ChatGPT API parameters selection.xlsx_' includes details on an experiment for identifying optimal ChatGPT API parameters for generating responses. 
 
